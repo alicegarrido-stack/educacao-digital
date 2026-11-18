@@ -60,4 +60,13 @@ img {
     max-width: 600px;
     display: block;
     border-radius: 12px;
+
+}
+
+figcaption {
+    text-align: center;
+    font-size: 14px;
+    color: brown;
+    margin-top: 8px;
+
 }
